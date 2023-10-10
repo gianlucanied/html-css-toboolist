@@ -48,3 +48,70 @@
     margin-top: 30px;
 }
 
+#titoli{
+    margin-left: 70px;
+}
+
+#Editorial{
+    background-color: rgb(0, 217, 255);
+    color: white;
+    border: none;
+    margin-left: 10px;
+    padding: 10px 10px;
+
+}
+
+#secondo-titolo{
+
+        margin-left: 70px;
+        font-size: 35px;
+        margin-top: 30px;
+    }
+
+    #q1{   background-color: rgb(153, 0, 255);
+        color: white;
+        border: none;
+        margin-left: 10px;
+        padding: 10px 10px;
+
+    }
+
+    #Recruiting{  background-color: rgb(55, 255, 0);
+        color: white;
+        border: none;
+        margin-left: 10px;
+        padding: 10px 10px;
+
+    }
+
+    #mobile{background-color: rgb(255, 149, 0);
+        color: white;
+        border: none;
+        margin-left: 10px;
+        padding: 10px 10px;
+
+
+    }
+
+    #terzo-titolo{
+        margin-left: 70px;
+        font-size: 35px;
+        margin-top: 30px;
+    }
+
+    #website{background-color: rgb(255, 0, 174);
+        color: white;
+        border: none;
+        margin-left: 10px;
+        padding: 10px 10px;
+
+    }
+
+    #sales{background-color: rgb(0, 255, 51);
+        color: white;
+        border: none;
+        margin-left: 10px;
+        padding: 10px 10px;
+
+
+    }
